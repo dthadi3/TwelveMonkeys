@@ -1,4 +1,7 @@
 dist: trusty
+arch:
+  - AMD64
+  - ppc64le
 language: java
 jdk:
   - oraclejdk8
